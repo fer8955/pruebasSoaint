@@ -45,4 +45,3 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 target/
-package-lock.json
