@@ -1,4 +1,4 @@
-# Guía de Uso del Framework Playwright (Preview)
+# Guía de Uso del Framework Playwright
 Este proyecto utiliza el framework Playwright para pruebas automatizadas. El proyecto está estructurado en TypeScript y utiliza Playwright para la automatización de navegadores.
 
 Se ha rediseñado para mantener el uso de Playwright lo más limpio y natural posible, facilitando la escritura y mantenimiento de las pruebas.
