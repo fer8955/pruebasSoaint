@@ -1,0 +1,5 @@
+case,value,message
+Empty Nome,nome,"nome não pode ficar em branco"
+Empty Email,email,"email não pode ficar em branco"
+Empty Password,password,"password não pode ficar em branco"
+Empty Admin,administrador,"administrador deve ser 'true' ou 'false'"
