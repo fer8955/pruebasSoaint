@@ -1,4 +1,4 @@
-# 🧪 Automatización de API - Sección Usuários | [Serverest.dev](https://serverest.dev)
+# 🧪 Automatización de API - Sección Usuários | [Serverest.dev](https://serverest.dev).
 
 Este proyecto automatiza la validación de los endpoints relacionados con **usuarios** de la API pública [Serverest](https://serverest.dev), utilizando el framework [Karate](https://github.com/karatelabs/karate) para pruebas de servicios REST.
 
